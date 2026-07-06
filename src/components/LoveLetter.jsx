@@ -161,7 +161,7 @@ export default function LoveLetter() {
       </p>
 
       <h3 className="letter-signature mt-4 text-2xl md:text-4xl tracking-[0.25em] font-semibold">
-         WILLIAM JACOB MILLER
+         JACOB MILLER
       </h3>
 
       <p className="letter-date mt-4">

@@ -43,7 +43,7 @@ export default function Footer() {
           </div>
 
           <div className="footer-signature-name text-lg tracking-[0.2em]">
-            —  WILLIAM JACOB MILLER ✍️
+            —  JACOB MILLER ✍️
           </div>
 
         </div>

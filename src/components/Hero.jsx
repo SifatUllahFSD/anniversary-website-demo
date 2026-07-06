@@ -58,7 +58,7 @@ export default function Hero() {
               <span className="hero-eyebrow">Forever &amp; Always</span>
 
               <h1 className="hero-name">
-                WILLIAM JACOB MILLER
+                JACOB MILLER
               </h1>
 
               {/* separator */}
