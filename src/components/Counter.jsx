@@ -7,7 +7,7 @@ const START_DATE = new Date("2023-08-10T00:00:00");
 /* 💎 CARD COMPONENT (OUTSIDE - FIXED) */
 function Card({ title, emoji, data, compact }) {
   return (
-    <div className="counter-card rounded-3xl p-6 md:p-8">
+    <div id="Counter" className="counter-card rounded-3xl p-6 md:p-8">
 
       <h2
         className="counter-card-title text-center text-xl md:text-2xl mb-6"
